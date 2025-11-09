@@ -1,7 +1,7 @@
 ![Header image](https://github.com/jagg01tcn/jagg01tcn/blob/428c51c7015373b9c1c094a8fd11ee76cea2bfb0/bash-161382_1280.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 
-# 🧠 >>  I'm Jose Antonio Gordo Gordo
+# 🧠 I'm Jose Antonio Gordo Gordo
 
 > "The quieter you become, the more you can hear."
 
@@ -21,7 +21,7 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
 
 ---
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects </h2>
 
 - <b>Python </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
