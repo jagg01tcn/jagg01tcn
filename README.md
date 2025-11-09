@@ -32,7 +32,7 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   ----
 <h2>📖Manuals</h2>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Manul Fedora 36](https://github.com/jagg01tcn/Manual-Fedora-36)
 
   ----
 
