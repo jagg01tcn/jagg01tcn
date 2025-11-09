@@ -30,8 +30,8 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
- 
-  <h2>📖Manuals</h2>
+  ----
+<h2>📖Manuals</h2>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
   ----
