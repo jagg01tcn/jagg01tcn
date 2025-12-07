@@ -11,7 +11,7 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
 ---
 
 ## 🧱 Tech Stack
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux).
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
@@ -27,7 +27,7 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Bash scripting</b>
   - [WichSystem](https://github.com/jagg01tcn/WichSystem/tree/main)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Gestor De Contrseñas](https://github.com/jagg01tcn/GestorDeContrase-as/tree/main)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   ----
