@@ -28,8 +28,8 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
 - <b>Bash scripting</b>
   - [WichSystem](https://github.com/jagg01tcn/WichSystem/tree/main)
   - [Gestor De Contrseñas](https://github.com/jagg01tcn/GestorDeContrase-as/tree/main)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Buscador de Labs de hack the box](https://github.com/jagg01tcn/Buscador-de-Labs/tree/main)
+  - [FIM (File ](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   ----
 <h2>📖Manuals</h2>
 
