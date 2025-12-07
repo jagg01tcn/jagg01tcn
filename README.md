@@ -34,6 +34,9 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
 <h2>📖Manuals</h2>
 
   -[Manual Fedora 36](https://github.com/jagg01tcn/Manual-Fedora-36)
+  
+  -[Manual Fedora 36](https://github.com/jagg01tcn/Introducion_a_Linux)
+
 
 
   ----
