@@ -24,8 +24,17 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
 <h2>👨‍💻 Software Development Projects </h2>
 
 - <b>Python </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Escaner-de-Puertos](https://github.com/jagg01tcn/Escaner-de-Puertos-)
+  - [escaner_red_ARP](https://github.com/jagg01tcn/-escaner_red_ARP)
+  - [escaner_red_ICMP](https://github.com/jagg01tcn/escaner_red_ICMP)
+  - [DomainSniffer](https://github.com/jagg01tcn/-DomainSniffer)
+  - [ForwardShell](https://github.com/jagg01tcn/ForwardShell)
+  - [Chat-Cifrado](https://github.com/jagg01tcn/Chat-Cifrado)
+  - [Ramsonware](https://github.com/jagg01tcn/Ramsonware)
+
+
 - <b>Bash scripting</b>
+  - [fuerza_bruta_wordpress](https://github.com/jagg01tcn/fuerza_bruta_wordpress)
   - [WichSystem](https://github.com/jagg01tcn/WichSystem/tree/main)
   - [Gestor De Contrseñas](https://github.com/jagg01tcn/GestorDeContrase-as/tree/main)
   - [Buscador de Labs de hack the box](https://github.com/jagg01tcn/Buscador-de-Labs/tree/main)
