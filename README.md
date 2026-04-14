@@ -49,7 +49,7 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
 
   ----
 
-  <h2>🛠️Custom Parrot OS </h2>
+  <h2> 🪛 Promts </h2>
   
 
 
