@@ -50,14 +50,10 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
   ----
 
   <h2> 🪛 Promts </h2>
-  -[ Promts ](https://github.com/jagg01tcn/Prompts)
-
-  
-https://github.com/jagg01tcn/Prompts
+    
+  -[Prompts](https://github.com/jagg01tcn/Prompts)
 
 ## 🕶️ Fun Zone
 ```bash
 $ whoami
 jagg01tcn
-$ sudo apt-get install curiosity
-
