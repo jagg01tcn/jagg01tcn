@@ -21,7 +21,7 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
 
 ---
 
-<h2>👨‍💻 Software Development Projects </h2>
+<h2>👨‍💻Offensive Security Toolkit  Projects </h2>
 
 - <b>Python </b>
   - [Escaner-de-Puertos](https://github.com/jagg01tcn/Escaner-de-Puertos-)
