@@ -30,7 +30,7 @@ I build tools, test defenses (ethically), and automate repetitive chaos.
   - [DomainSniffer](https://github.com/jagg01tcn/-DomainSniffer)
   - [ForwardShell](https://github.com/jagg01tcn/ForwardShell)
   - [Chat-Cifrado](https://github.com/jagg01tcn/Chat-Cifrado)
-  - [Ramsonware](https://github.com/jagg01tcn/Ramsonware)
+  - [Ransomware](https://github.com/jagg01tcn/Ramsonware)
 
 
 - <b>Bash scripting</b>
