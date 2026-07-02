@@ -3,10 +3,7 @@
 
 # 🧠 I'm Jose Antonio Gordo Gordo
 
-> "The quieter you become, the more you can hear."
-
-I'm a Linux enthusiast, cybersecurity student.  
-I build tools, test defenses (ethically), and automate repetitive chaos.
+> Cybersecurity student specialized in Operational Technology (OT) security with a strong interest in Product Security, Offensive Security and Security Research. I enjoy building security tools, automating offensive tasks and understanding how systems work internally.
 
 ---
 
