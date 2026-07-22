@@ -33,7 +33,7 @@
 - <b>Bash scripting</b>
   - [fuerza_bruta_wordpress](https://github.com/jagg01tcn/fuerza_bruta_wordpress)
   - [WichSystem](https://github.com/jagg01tcn/WichSystem/tree/main)
-  - [Gestor De Contrseñas](https://github.com/jagg01tcn/GestorDeContrase-as/tree/main)
+  - [Gestor De Contraseñas](https://github.com/jagg01tcn/GestorDeContrase-as/tree/main)
   - [Buscador de Labs de hack the box](https://github.com/jagg01tcn/Buscador-de-Labs/tree/main)
   ----
 <h2>📖Manuals</h2>
